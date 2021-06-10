@@ -1,6 +1,6 @@
 # RayTracer
 
-This Git Repo holds code for a raytracer I wrote in my Raytracing class. Multiple rays are cast into a scene and apply different colors to an array of pixel deppending on what it hits. 
+This Git Repo holds code for a raytracer I wrote in my Raytracing class. Multiple rays are cast into a scene and apply different colors to an array of pixels deppending on what it hits. 
 
 raytrace.cpp/h contains the code to control how many rays are cast and to save the pictures out to an image file. 
 
